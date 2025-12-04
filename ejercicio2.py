@@ -8,8 +8,8 @@ an = a1 * (r ** (n - 1))
 
 print("El término número", n, "de la progresión geométrica es:", an)
 if r != 1 :
-Sn = a1 * ( r**n-1 )/r+1
-print (f"el resultado es {Sn}")
+    Sn = a1 * ( r**n-1 )/r+1
+    print (f"el resultado es {Sn}")
 else :
     Sn = a1 *n
     print (f"el resultado es {Sn} ")
