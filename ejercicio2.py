@@ -13,3 +13,4 @@ print (f"el resultado es {Sn}")
 else :
     Sn = a1 *n
     print (f"el resultado es {Sn} ")
+    
